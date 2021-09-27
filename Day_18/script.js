@@ -38,11 +38,14 @@ const doPromise = new Promise((resolve,reject)=>{
         {
             reject('Something went wrong');
         }
-    },4000)
+    },1000)
 })
 
 doPromise.then((result)=>{
     console.log(result);
+    return new Promise((resolve,reject) => resolve('Hey,there!!') )
+}).then((res)=>{
+    console.log('Another promise returned from doPromise()',res);
 }).catch((error)=>{
     console.log(error);
 });
