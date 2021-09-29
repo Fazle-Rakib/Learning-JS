@@ -16,6 +16,10 @@
 - [30 projects in 30 Days](https://javascript30.com/)
 - [Edabit : A Problem solving site for JS](https://edabit.com/challenges/javascript)
 
+## Solved Challenges
+- [JavaScript 30 projects](./Challenges/challenges.md)
+- [Solved Problem in Edabit](https://edabit.com/user/obDKxs9ph5r22fL8K)
+
 ## How does JS works?
 - [Interpreted vs Compiled Programming Languages](https://www.freecodecamp.org/news/compiled-versus-interpreted-languages/)
 - [How does JavaScript Work? BTS](https://www.javatpoint.com/how-does-javascript-work)
