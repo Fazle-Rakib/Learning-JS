@@ -13,6 +13,12 @@
 | 8  |       [HTML5 Canvas](./JS30/Day_8)       | [Link]()
 | 9  |       [Dev tools tricks](./JS30/Day_9)       | [Link]()
 | 10  |       [Multiple Checkboxes](./JS30/Day_10)       | [Link]()
+| 11  |       [Cuatom HTML Video Player](./JS30/Day_11)       | [Link]()
+| 12  |       [Key Sequence Detection](./JS30/Day_12)       | [Link]()
+| 13  |       [Slide In On Scroll](./JS30/Day_13)       | [Link]()
+| 14  |       [Object and Arrays - Reference Vs Copy](./JS30/Day_14)       | [Link]()
+| 15  |       [LocalStorage & Event Delegation](./JS30/Day_15)       | [Link]()
+| 16  |       [CSS Text Shadow Mouse Move Effect](./JS30/Day_16)       | [Link]()
 
 
 
