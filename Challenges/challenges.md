@@ -31,7 +31,7 @@
 | 27  |       [Click & dragX to scrollX](./JS30/Day_27)       | [Link]()
 | 28  |       [Video speed control with height UI](./JS30/Day_28)       | [Link]()
 | 29  |       [Countdown Clock \| Text field \| Click event](./JS30/Day_29)       | [Link]()
-| 30  |       [Game \| MouseEvent \| Random()](./JS30/Day_30)       | [Link]()
+| 30  |       [Game \| MouseEvent \| Random()](./JS30/Day_30)       | [Link](#)
 
 
 
